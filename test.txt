@@ -1,0 +1,6 @@
+Enter the street address: 13510 Quiet Stream Ct
+Enter the City, State: Charlotte, NC
+Enter the search distance (miles): 25
+Enter the minimum land area (acres): 100
+Enter time (hours): 24
+The model with the highest energy production in 24.0 hours is: V162-6.0 with 5.992514453819482 MW.
